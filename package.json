@@ -1,0 +1,19 @@
+{
+  "name": "customize-page",
+  "version": "1.0.0",
+  "description": "自定义化页面",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenglinquan/customize-page.git"
+  },
+  "author": "zenglinquan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenglinquan/customize-page/issues"
+  },
+  "homepage": "https://github.com/zenglinquan/customize-page#readme"
+}
